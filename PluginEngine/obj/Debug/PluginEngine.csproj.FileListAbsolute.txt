@@ -1,0 +1,16 @@
+c:\users\sei.zz\documents\visual studio 2010\Projects\PluginSystem\PluginEngine\bin\Debug\PluginEngine.dll
+c:\users\sei.zz\documents\visual studio 2010\Projects\PluginSystem\PluginEngine\bin\Debug\PluginEngine.pdb
+c:\users\sei.zz\documents\visual studio 2010\Projects\PluginSystem\PluginEngine\obj\Debug\PluginEngine.dll
+c:\users\sei.zz\documents\visual studio 2010\Projects\PluginSystem\PluginEngine\obj\Debug\PluginEngine.pdb
+C:\Users\sei.zz\documents\visual studio 2010\Projects\PluginSystem\PluginEngine\obj\Debug\PluginEngine.csprojResolveAssemblyReference.cache
+E:\桌面备份\Documents\Visual Studio 2010\Projects\PluginSystem\PluginEngine\bin\Debug\PluginEngine.dll
+E:\桌面备份\Documents\Visual Studio 2010\Projects\PluginSystem\PluginEngine\bin\Debug\PluginEngine.pdb
+E:\桌面备份\Documents\Visual Studio 2010\Projects\PluginSystem\PluginEngine\obj\Debug\PluginEngine.dll
+E:\桌面备份\Documents\Visual Studio 2010\Projects\PluginSystem\PluginEngine\obj\Debug\PluginEngine.pdb
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\PluginEngine\bin\Debug\PluginEngine.dll
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\PluginEngine\bin\Debug\PluginEngine.pdb
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\PluginEngine\obj\Debug\PluginEngine.dll
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\PluginEngine\obj\Debug\PluginEngine.pdb
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\PluginEngine\obj\Debug\PluginEngine.csprojResolveAssemblyReference.cache
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\PluginEngine\bin\Debug\FastNetwork.dll
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\PluginEngine\bin\Debug\FastNetwork.pdb

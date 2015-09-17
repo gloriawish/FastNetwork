@@ -1,0 +1,7 @@
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\Test\bin\Debug\Test.exe
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\Test\bin\Debug\Test.pdb
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\Test\bin\Debug\FastNetwork.dll
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\Test\bin\Debug\FastNetwork.pdb
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\Test\obj\Debug\Test.exe
+C:\Users\sei.zz\Documents\Visual Studio 2012\Projects\FastNetwork\Test\obj\Debug\Test.pdb

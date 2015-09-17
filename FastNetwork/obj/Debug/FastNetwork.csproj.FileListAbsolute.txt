@@ -1,0 +1,4 @@
+c:\users\sei.zz\documents\visual studio 2012\Projects\FastNetwork\FastNetwork\bin\Debug\FastNetwork.dll
+c:\users\sei.zz\documents\visual studio 2012\Projects\FastNetwork\FastNetwork\bin\Debug\FastNetwork.pdb
+c:\users\sei.zz\documents\visual studio 2012\Projects\FastNetwork\FastNetwork\obj\Debug\FastNetwork.dll
+c:\users\sei.zz\documents\visual studio 2012\Projects\FastNetwork\FastNetwork\obj\Debug\FastNetwork.pdb
