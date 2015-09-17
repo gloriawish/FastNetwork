@@ -1,0 +1,2 @@
+# FastNetwork
+基于SocketAsyncEventArgs的一个高性能异步TCP网络库
